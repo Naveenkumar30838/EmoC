@@ -44,7 +44,7 @@ This project focuses on building an emotion classification system from scratch u
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The model performance is evaluated using:
 
@@ -104,7 +104,8 @@ sad: 5.4%
 * Explore hybrid CNN + LSTM architecture
 
 ---
-
+## Future Work 
+ * Detecting Features in Audios and Recommending the Most similar Audio (Music Recommendation System) 
 ##  Tech Stack
 
 * Python
